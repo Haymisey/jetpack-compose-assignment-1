@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jetpack-compose-assignment-1</string>
+    <string name="credit_hours">credit hours</string>
+    <string name="description">Description</string>
+    <string name="prerequisites">Prerequisites</string>
+    <string name="expand">Expand</string>
+    <string name="collapse">Collapse</string>
+</resources>
